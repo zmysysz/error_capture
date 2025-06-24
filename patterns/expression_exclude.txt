@@ -1,0 +1,337 @@
+^Completed\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+with\s+[^ ]*\s+file\(s\)\s+remaining\s+\(calculating\.\.\.\)
+^Progress\s+\(3\):\s+[^ ]*\s+[^ ]*\s+\|\s+[^ ]*\s+[^ ]*\s+\|\s+[^ ]*\s+[^ ]*
+^Progress\s+\(4\):\s+[^ ]*\s+[^ ]*\s+\|\s+[^ ]*\s+kB\s+\|\s+[^ ]*\s+[^ ]*\s+\|\s+[^ ]*\s+[^ ]*
+^Completed\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+with\s+[^ ]*\s+file\(s\)\s+remaining
+^Progress\s+\(2\):\s+[^ ]*\s+[^ ]*\s+\|\s+[^ ]*\s+[^ ]*
+^Progress\s+\(4\):\s+[^ ]*\s+MB\s+\|\s+[^ ]*\s+[^ ]*\s+\|\s+[^ ]*\s+[^ ]*\s+\|\s+[^ ]*\s+[^ ]*
+^Progress\s+\(5\):\s+[^ ]*\s+[^ ]*\s+\|\s+[^ ]*\s+[^ ]*\s+\|\s+[^ ]*\s+kB\s+\|\s+[^ ]*\s+[^ ]*\s+\|\s+[^ ]*\s+[^ ]*
+^upload:\s+[^ ]*\s+to\s+[^ ]*
+^\#[0-9]+\s+[0-9]+\.[0-9]+\s+\S+\s+\S+(?!.*\s(?:error|ERROR|Error|Err)\s)
+━━━━━━━━━━━━━━━━━
+^[0-9]+%!\s+[^ ]*\s+Bytes
+^Progress\s+\(5\):\s+[^ ]*\s+MB\s+\|\s+[^ ]*\s+[^ ]*\s+\|\s+[^ ]*\s+[^ ]*\s+\|\s+[^ ]*\s+[^ ]*\s+\|\s+[^ ]*\s+[^ ]*
+^Downloaded\s+from\s+Public\s+Repository:\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+at\s+[^ ]*\s+[^ ]*
+^Completed\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+with\s+[^ ]*\s+file\(s\)\s+remaining\s+\(calculating\.\.\.\)
+^Progress\s+\(1\):\s+[^ ]*\s+[^ ]*
+^[^ ]*\s+[^ ]*\s+MB\s+[^ ]*\s+MB/s\s+eta\s+[^ ]*
+^\-rw\-r\-\-r\-\-\s+1\s+root\s+root\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*
+^signing:\s+[^ ]*
+^A\s+[^ ]*
+^\#14\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+//\s+indirect
+^Progress\s+\(4\):\s+[^ ]*\s+kB\s+\|\s+[^ ]*\s+[^ ]*\s+\|\s+[^ ]*\s+[^ ]*\s+\|\s+[^ ]*\s+[^ ]*
+^[^ ]*\s+\.\.\.\.\.\.\.\.\.\.\s+\.\.\.\.\.\.\.\.\.\.\s+\.\.\.\.\.\.\.\.\.\.\s+\.\.\.\.\.\.\.\.\.\.\s+\.\.\.\.\.\.\.\.\.\.\s+[^ ]*\s+[^ ]*\s+[^ ]*
+^\-\-\->\s+[^ ]*
+^Downloaded\s+from\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+at\s+[^ ]*\s+kB/s\)
+^Progress\s+\(3\):\s+[^ ]*\s+MB\s+\|\s+[^ ]*\s+[^ ]*\s+\|\s+[^ ]*\s+[^ ]*
+^CDN:\s+trunk\s+Relative\s+path\s+downloaded:\s+[^ ]*\s+save\s+ETag:\s+[^ ]*
+^CDN:\s+trunk\s+Relative\s+path:\s+[^ ]*\s+has\s+ETag\?\s+[^ ]*
+^Progress\s+\(4\):\s+[^ ]*\s+[^ ]*\s+\|\s+[^ ]*\s+kB\s+\|\s+[^ ]*\s+kB\s+\|\s+[^ ]*\s+[^ ]*
+^100\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+100\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+\-\-:\-\-:\-\-\s+\-\-:\-\-:\-\-\s+\-\-:\-\-:\-\-\s+[^ ]*
+^\-\-\->\s+Running\s+in\s+[^ ]*
+^Removing\s+intermediate\s+container\s+[^ ]*
+^Note:\s+RegisterUnityMethod\s+[^ ]*
+^adding:\s+[^ ]*\s+\(stored\s+0%\)
+^>\s+Task\s+[^ ]*
+^Progress\s+\(5\):\s+[^ ]*\s+kB\s+\|\s+[^ ]*\s+[^ ]*\s+\|\s+[^ ]*\s+[^ ]*\s+\|\s+[^ ]*\s+[^ ]*\s+\|\s+[^ ]*\s+[^ ]*
+^[^ ]*\s+bytes\s+for\s+[^ ]*
+^Created\s+Pod:\s+kubernetes\s+[^ ]*
+^Agent\s+[^ ]*\s+is\s+provisioned\s+from\s+template\s+[^ ]*
+^\#14\s+[^ ]*\s+go:\s+downloading\s+[^ ]*\s+[^ ]*
+^Downloading\s+from\s+[^ ]*\s+Repository:\s+[^ ]*
+^Progress\s+\(2\):\s+[^ ]*\s+MB\s+\|\s+[^ ]*\s+[^ ]*
+^Running\s+on\s+[^ ]*\s+in\s+[^ ]*
+^[^ ]*\s+[^ ]*\s+KiB\s+[^ ]*\s+KiB
+^[^ ]*\s+\.\.\.\.\.\.\.\.\.\.\s+\.\.\.\.\.\.\.\.\.\.\s+\.\.\.\.\.\.\.\.\.\.\s+\.\.\.\.\.\.\.\.\.\.\s+\.\.\.\.\.\.\.\.\.\.\s+[^ ]*
+^In\s+file\s+included\s+from\s+[^ ]*
+^Downloading\s+from\s+Public\s+Repository:\s+[^ ]*
+^[^ ]*\s+Preparing
+^\+\s+docker\s+push\s+[^ ]*
+^\+\s+docker\s+build\s+\-t\s+[^ ]*\s+\.
+^[^ ]*\s+Pushed
+^100\s+[^ ]*\s+0\s+0\s+100\s+[^ ]*\s+0\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+\-\-:\-\-:\-\-\s+[^ ]*
+^[^ ]*\s+[^ ]*\s+MB\s+[^ ]*\s+kB/s\s+eta\s+[^ ]*
+^\+\s+curl\s+\-F\s+[^ ]*\s+[^ ]*
+^>\s+Task\s+[^ ]*\s+[^ ]*
+^Updating\s+files:\s+[^ ]*\s+[^ ]*
+^Downloading\s+from\s+[^ ]*\s+[^ ]*
+^\#14\s+[^ ]*\s+\[\s+[^ ]*\s+Building\s+[^ ]*\s+object\s+[^ ]*
+^Downloaded\s+from\s+[^ ]*\s+Repository:\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+at\s+[^ ]*\s+[^ ]*
+^Completed\s+1\.0\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+with\s+[^ ]*\s+file\(s\)\s+remaining\s+\(calculating\.\.\.\)
+^artifact\s+dir\s+[^ ]*
+^\-rw\-r\-\-r\-\-\s+1\s+service\s+service\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*
+^tar:\s+[^ ]*\s+time\s+stamp\s+[^ ]*\s+[^ ]*\s+is\s+[^ ]*\s+s\s+in\s+the\s+future
+^\-rwxrwxrwx\s+1\s+service\s+service\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*
+^Downloaded\s+from\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+B\s+at\s+[^ ]*\s+[^ ]*
+^[^ ]*\s+Layer\s+already\s+exists
+^[^ ]*\s+\(sourcemap\s+at\s+[^ ]*\s+debug\s+id\s+[^ ]*
+^[^ ]*\s+\(debug\s+id\s+[^ ]*
+^\+\s+[^ ]*
+^Note:\s+switching\s+to\s+[^ ]*
+^\+\s+git\s+clone\s+\*\*\*\*\s+\-b\s+[^ ]*\s+[^ ]*
+^\+\s+[^ ]*\s+cp\s+[^ ]*\s+[^ ]*
+^\('handle\s+lua\s+file\s+=====',\s+[^ ]*\s+[^ ]*
+^Completed\s+[^ ]*\s+[^ ]*\s+MiB\s+[^ ]*\s+[^ ]*\s+with\s+[^ ]*\s+file\(s\)\s+remaining
+^[^ ]*\s+[^ ]*\s+KiB\s+\[emitted\]
+^\+\s+gcmd\s+cv\s+\-metadata\s+[^ ]*\s+\-metadata\s+[^ ]*\s+\-metadata\s+[^ ]*\s+\-\-committer\s+[^ ]*\s+[^ ]*
+^\+\s+echo\s+[^ ]*
+^Copying\s+extracted\s+folder\s+[^ ]*\s+\->\s+[^ ]*
+^[^ ]*\s+Mounted\s+from\s+[^ ]*
+^\|\s+[^ ]*
+^CDN:\s+trunk\s+Relative\s+path:\s+[^ ]*\s+exists!\s+Returning\s+local\s+because\s+checking\s+is\s+only\s+performed\s+in\s+repo\s+update
+^adding:\s+[^ ]*\s+\(deflated\s+[^ ]*
+^ADD\s+\|\s+[^ ]*
+^\#10\s+[^ ]*\s+Unpacking\s+[^ ]*\s+[^ ]*\s+\.\.\.
+^\#10\s+[^ ]*\s+Selecting\s+previously\s+unselected\s+package\s+[^ ]*
+^\#10\s+[^ ]*\s+Preparing\s+to\s+unpack\s+[^ ]*\s+\.\.\.
+^\#10\s+[^ ]*\s+Setting\s+up\s+[^ ]*\s+[^ ]*\s+\.\.\.
+^Progress\s+\(5\):\s+[^ ]*\s+MB\s+\|\s+[^ ]*\s+[^ ]*\s+\|\s+[^ ]*\s+kB\s+\|\s+[^ ]*\s+[^ ]*\s+\|\s+[^ ]*\s+[^ ]*
+^Entrypoint\s+[^ ]*\s+[^ ]*\s+KiB\s+[^ ]*\s+[^ ]*\s+=\s+[^ ]*\s+[^ ]*\s+KiB\s+[^ ]*\s+[^ ]*\s+KiB\s+[^ ]*\s+auxiliary\s+assets
+^[^ ]*\s+[^ ]*\s+\[\s+[^ ]*\s+Built\s+target\s+[^ ]*
+^Completed\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+with\s+[^ ]*\s+file\(s\)\s+remaining
+^\-rw\-r\-\-r\-\-\s+1\s+\*\*\*\*\s+wheel\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*
+^[^ ]*\s+[^ ]*\s+\[\s+[^ ]*\s+Linking\s+CXX\s+[^ ]*\s+library\s+[^ ]*
+^\#12\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+//\s+indirect
+^Entrypoint\s+[^ ]*\s+\[big\]\s+[^ ]*\s+KiB\s+[^ ]*\s+[^ ]*\s+=\s+[^ ]*\s+[^ ]*\s+KiB\s+[^ ]*\s+[^ ]*\s+KiB\s+[^ ]*\s+auxiliary\s+assets
+^\-D\s+[^ ]*
+^\+\s+cd\s+[^ ]*
+^\+\s+git\s+clone\s+[^ ]*\s+\-b\s+[^ ]*\s+[^ ]*
+^[^ ]*\s+note:\s+[^ ]*\s+has\s+been\s+explicitly\s+marked\s+deprecated\s+here
+^\+\s+/usr/bin/gcmd\s+cp\s+[^ ]*\s+[^ ]*
+^\+\s+curl\s+\-\-location\s+[^ ]*\s+\-\-data\s+'\{"build_ver":\s+[^ ]*
+^Downloaded\s+from\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+kB\s+at\s+[^ ]*\s+[^ ]*
+^\+\s+/usr/bin/gcmd\s+cv\s+\-metadata\s+'代码地址:\*\*\*\*'\s+\-metadata\s+[^ ]*\s+\-metadata\s+[^ ]*\s+\-metadata\s+'站点:'\s+\-metadata\s+'品牌:'\s+[^ ]*
+^100\s+39\s+100\s+39\s+0\s+0\s+[^ ]*\s+0\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*
+^[^ ]*\s+\|\s+static\s+int\s+[^ ]*\s+[^ ]*
+^[^ ]*\s+[^ ]*\s+KiB\s+[^ ]*\s+\[emitted\]\s+\[immutable\]\s+[^ ]*
+^\#\s+The\s+proguard\s+configuration\s+file\s+for\s+the\s+following\s+section\s+is\s+[^ ]*
+^\#\s+End\s+of\s+content\s+from\s+[^ ]*
+^assets\s+by\s+path\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+assets
+^name:\s+[^ ]*
+^\+\s+[^ ]*\s+cv\s+\-metadata\s+[^ ]*\s+\-metadata\s+[^ ]*\s+\-metadata\s+[^ ]*\s+\-metadata\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*
+^Progress\s+\(5\):\s+[^ ]*\s+[^ ]*\s+\|\s+[^ ]*\s+[^ ]*\s+\|\s+[^ ]*\s+kB\s+\|\s+[^ ]*\s+MB\s+\|\s+[^ ]*\s+[^ ]*
+^value:\s+[^ ]*
+^kubernetes\.jenkins\.io/last\-refresh:\s+[^ ]*
+^jenkins/label\-digest:\s+[^ ]*
+^jenkins/label:\s+[^ ]*
+^runUrl:\s+[^ ]*
+^buildUrl:\s+[^ ]*
+^[^ ]*\s+[^ ]*\s+KiB\s+0\s+\[emitted\]\s+[^ ]*\s+[^ ]*
+^adding:\s+[^ ]*\s+[^ ]*\s+\(stored\s+0%\)
+^>\s+Copying\s+[^ ]*\s+from\s+[^ ]*\s+to\s+[^ ]*
+^[^ ]*\s+note:\s+did\s+you\s+mean\s+[^ ]*
+^Requirement\s+already\s+satisfied:\s+[^ ]*\s+in\s+[^ ]*\s+\(from\s+[^ ]*\s+[^ ]*\s+\(line\s+[^ ]*\s+[^ ]*
+^drwxr\-xr\-x\s+2\s+service\s+service\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*
+^\{h5\-buildstatic\s+[^ ]*\s+h5\-buildstatic\.tar\.gz\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+repository_id:h5\-buildstatic\s+state:pub\s+[^ ]*\s+[^ ]*\s+\[key:"state"\s+key_display:"制品状态"\s+value:"pub"\s+value_display:"发布"\s+key:"publish\-env"\s+key_display:"发布环境"\s+[^ ]*\s+[^ ]*\s+false\s+[^ ]*\s+0\s+/h5\-buildstatic\.tar\.gz\}
+^\#14\s+[^ ]*\s+\[\s+[^ ]*\s+Building\s+CXX\s+object\s+[^ ]*
+^\#12\s+[^ ]*\s+Downloading\s+[^ ]*\s+[^ ]*\s+kB\)
+^Compiling\s+lua\s+[^ ]*\s+to\s+bytecode\.\.\.
+^\{middle\s+[^ ]*\s+middle\.tar\.gz\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+repository_id:middle\s+state:pub\s+[^ ]*\s+[^ ]*\s+\[key:"state"\s+key_display:"制品状态"\s+value:"pub"\s+value_display:"发布"\s+key:"publish\-env"\s+key_display:"发布环境"\s+[^ ]*\s+[^ ]*\s+false\s+[^ ]*\s+0\s+/middle\.tar\.gz\}
+^Completed\s+1\.0\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+with\s+[^ ]*\s+file\(s\)\s+remaining\s+\(calculating\.\.\.\)
+^\#12\s+[^ ]*\s+go:\s+downloading\s+[^ ]*\s+[^ ]*
+^assets\s+by\s+path\s+[^ ]*\s+[^ ]*\s+[^ ]*
+^[^ ]*\s+\|\s+Bin\s+[^ ]*\s+\->\s+[^ ]*\s+bytes
+^[^ ]*\s+bytes\s+for\s+[^ ]*\s+[^ ]*
+^Time:\s+[^ ]*
+^\#12\s+[^ ]*\s+Requirement\s+already\s+satisfied:\s+[^ ]*\s+in\s+[^ ]*\s+\(from\s+[^ ]*\s+/tmp/requirements\.txt\s+\(line\s+[^ ]*\s+[^ ]*
+^\$\s+/usr/bin/rsync\s+\-a\s+\-\-exclude=\.git\s+\-\-delete\s+[^ ]*\s+[^ ]*
+^\#14\s+[^ ]*\s+\-\-\s+Define\s+[^ ]*\s+=
+^Cloning\s+into\s+[^ ]*
+^\#14\s+[^ ]*\s+[^ ]*\s+=>\s+[^ ]*
+^Hash:\s+[^ ]*
+^GalaxyImgcvt:\s+Converting\s+URL:\s+[^ ]*\s+to:\s+[^ ]*
+^>\s+[^ ]*\s+postinstall\s+[^ ]*
+^\#12\s+[^ ]*\s+Collecting\s+[^ ]*\s+\(from\s+[^ ]*\s+/tmp/requirements\.txt\s+\(line\s+[^ ]*
+^\#10\s+[^ ]*\s+[^ ]*\s+http://mirrors\.ustc\.edu\.cn/ubuntu\s+focal/main\s+amd64\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+kB\]
+^[^ ]*\s+Waiting
+^[^ ]*\s+\|\s+[^ ]*\s+\+\-
+^remote:\s+[^ ]*\s+objects:\s+[^ ]*\s+[^ ]*
+^Cloning\s+into\s+[^ ]*
+^[^ ]*\s+\|\s+[^ ]*\s+=\s+[^ ]*
+^[^ ]*\s+[^ ]*\s+rm\s+\-rf\s+[^ ]*
+^drwxr\-xr\-x\s+[^ ]*\s+service\s+service\s+4096\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*
+^donwnload\s+success\s+:\s+[^ ]*
+^\{hw\-story\-static\s+[^ ]*\s+hw\-story\-static\.tar\.gz\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+repository_id:hw\-story\-static\s+state:pub\s+[^ ]*\s+[^ ]*\s+\[key:"state"\s+key_display:"制品状态"\s+value:"pub"\s+value_display:"发布"\s+key:"publish\-env"\s+key_display:"发布环境"\s+[^ ]*\s+[^ ]*\s+false\s+[^ ]*\s+0\s+/hw\-story\-static\.tar\.gz\}
+^>\s+[^ ]*\s+[^ ]*\s+/home/jenkins/agent/micro\-assembly
+^asset\s+[^ ]*\s+[^ ]*\s+KiB\s+\[emitted\]\s+\[immutable\]\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+1\s+related\s+asset
+^sent\s+[^ ]*\s+bytes\s+received\s+[^ ]*\s+bytes\s+[^ ]*\s+bytes/sec
+^\{middle\-intra\-buildstatic\s+[^ ]*\s+middle\-intra\-buildstatic\.tar\.gz\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+repository_id:middle\-intra\-buildstatic\s+state:pub\s+[^ ]*\s+[^ ]*\s+\[key:"state"\s+key_display:"制品状态"\s+value:"pub"\s+value_display:"发布"\s+key:"publish\-env"\s+key_display:"发布环境"\s+[^ ]*\s+[^ ]*\s+false\s+[^ ]*\s+0\s+/middle\-intra\-buildstatic\.tar\.gz\}
+^[^ ]*\s+Multiple\s+substitutions\s+specified\s+in\s+non\-positional\s+format\s+of\s+string\s+resource\s+[^ ]*\s+Did\s+you\s+mean\s+to\s+add\s+the\s+formatted="false"\s+attribute\?
+^total\s+size\s+is\s+[^ ]*\s+speedup\s+is\s+[^ ]*
+^\-keep\s+class\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+\}
+^Progress\s+\(1\):\s+[^ ]*\s+MB
+^Progress\s+\(4\):\s+[^ ]*\s+[^ ]*\s+\|\s+[^ ]*\s+MB\s+\|\s+[^ ]*\s+kB\s+\|\s+[^ ]*\s+[^ ]*
+^\+\s+gcmd\s+cp\s+\-metadata\s+[^ ]*\s+[^ ]*\s+[^ ]*
+^\+\s+[^ ]*
+^Running\s+on\s+[^ ]*\s+in\s+/home/jenkins/agent/workspace/ahaworld\-android/ahaworld\-android/ahaworld\-android
+^\$\s+/usr/bin/git\s+\-C\s+[^ ]*\s+checkout\s+\-\-quiet\s+[^ ]*
+^[^ ]*\s+[^ ]*\s+[^ ]*\s+\[MT\]\s+IDEDistribution:\s+\-\[IDEDistributionLogging\s+_createLoggingBundleAtPath:\]:\s+Created\s+bundle\s+at\s+path\s+[^ ]*
+^[^ ]*\s+100%\s+[^ ]*\s+0:00:00
+^Exported\s+[^ ]*\s+to:\s+[^ ]*
+^[^ ]*\s+\-\s+‘manifest\.plist\.template’\s+saved\s+\[2083/2083\]
+^Downloaded\s+from\s+central:\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+at\s+[^ ]*\s+[^ ]*
+^asset\s+[^ ]*\s+[^ ]*\s+KiB\s+\[emitted\]\s+\[immutable\]\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+1\s+related\s+asset
+^0\s+[^ ]*
+^[^ ]*\s+[^ ]*\s+generate\s+file:\s+[^ ]*
+^>\s+[^ ]*\s+[^ ]*\s+/home/jenkins/agent/h5\-buildstatic
+^\+\s+gcmd\s+cp\s+\-metadata\s+pub_type:dynamic\s+[^ ]*\s+[^ ]*
+^CDN:\s+trunk\s+Relative\s+path:\s+CocoaPods\-version\.yml,\s+has\s+ETag\?\s+[^ ]*
+^CDN:\s+trunk\s+Relative\s+path\s+downloaded:\s+CocoaPods\-version\.yml,\s+save\s+ETag:\s+[^ ]*
+^\#10\s+[^ ]*\s+[^ ]*\s+http://mirrors\.ustc\.edu\.cn/ubuntu\s+focal\-updates/main\s+amd64\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+kB\]
+^[^ ]*\s+[^ ]*\s+[^ ]*\s+\[MT\]\s+IDEDistribution:\s+Command\s+line\s+name\s+[^ ]*\s+is\s+deprecated\.\s+Use\s+[^ ]*\s+instead\.
+^\-s\s+[^ ]*
+^\-rw\-r\-\-r\-\-\s+1\s+\*\*\*\*\s+wheel\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+ExportOptions\.plist
+^remote:\s+Compressing\s+objects:\s+[^ ]*\s+[^ ]*
+^Downloading\s+[^ ]*\s+[^ ]*\s+kB\)
+^create\s+mode\s+100644\s+[^ ]*
+^product\s+dir\s+is:\s+[^ ]*
+^package\s+dir\s+is:\s+[^ ]*
+^jar\s+dir\s+is:\s+[^ ]*
+^\#14\s+[^ ]*\s+\|\s+[^ ]*
+^Progress:\s+resolved\s+[^ ]*\s+reused\s+[^ ]*\s+downloaded\s+[^ ]*\s+added\s+[^ ]*
+^[^ ]*\s+[^ ]*\s+/\s+gzip:\s+[^ ]*
+^\{realtime\-data\-warehouse\s+[^ ]*\s+realtime\-data\-warehouse\.tar\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+map\[repository_id:realtime\-data\-warehouse\s+state:init\s+[^ ]*\s+[^ ]*\s+代码地址:https://gitlab\.dev\.ihuman\.com/ihuman\-bigdata\-data\-platform/realtime\-data\-warehouse\.git\s+品牌:\s+[^ ]*\s+站点:\]\s+[^ ]*\s+\[key:"state"\s+key_display:"制品状态"\s+value:"init"\s+value_display:"初始化"\]\s+false\s+[^ ]*\s+0\s+/realtime\-data\-warehouse\.tar\}
+^\*\s+\[new\s+tag\]\s+[^ ]*\s+\->\s+[^ ]*
+^[^ ]*\s+mode\s+100644\s+[^ ]*
+^[^ ]*\s+Preparing
+^>\s+[^ ]*\s+[^ ]*\s+/home/jenkins/agent/middle\-buildstatic
+^version\s+is:\s+[^ ]*
+^asset\s+[^ ]*\s+[^ ]*\s+KiB\s+\[emitted\]\s+\[immutable\]\s+\(name:\s+[^ ]*\s+1\s+related\s+asset
+^\[Info\]:\s+The\s+latest\s+tag\s+for\s+this\s+project\s+is:\s+[^ ]*
+^drwxr\-xr\-x\s+2\s+root\s+root\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*
+^Entrypoint\s+index\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+MiB\)\s+=\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+KiB\s+4\s+auxiliary\s+assets
+^\-j\s+[^ ]*
+^\-rw\-r\-\-r\-\-\s+1\s+\*\*\*\*\s+staff\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*
+^Checked\s+out\s+revision\s+[^ ]*
+^\-keep\s+class\s+[^ ]*\s+\{\s+<init>\(android\.content\.Context,\s+android\.util\.AttributeSet\);\s+\}
+^\#12\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+done
+^Collecting\s+[^ ]*\s+\(from\s+[^ ]*\s+[^ ]*\s+\(line\s+[^ ]*
+^CDN:\s+trunk\s+Redirecting\s+from\s+[^ ]*\s+to\s+[^ ]*
+^\$\s+/usr/bin/git\s+clone\s+[^ ]*\s+[^ ]*\s+\-\-template=
+^[^ ]*\s+refs/heads/swift
+^[^ ]*\s+Pushed
+^100\s+39\s+100\s+39\s+0\s+0\s+[^ ]*
+^\#10\s+[^ ]*\s+[^ ]*\s+http://mirrors\.ustc\.edu\.cn/ubuntu\s+[^ ]*\s+amd64\s+[^ ]*\s+amd64\s+[^ ]*\s+[^ ]*\s+kB\]
+^\+\s+echo\s+[^ ]*\s+[^ ]*\s+[^ ]*
+^inflating:\s+[^ ]*
+^total\s+[^ ]*\s+\-rw\-r\-\-r\-\-\s+1\s+service\s+service\s+[^ ]*\s+Apr\s+[^ ]*\s+[^ ]*\s+realtime\-data\-warehouse\.tar
+^\-dontwarn\s+[^ ]*
+^Progress\s+\(5\):\s+0\.1/1\.1\s+MB\s+\|\s+[^ ]*\s+[^ ]*\s+\|\s+[^ ]*\s+kB\s+\|\s+[^ ]*\s+kB\s+\|\s+[^ ]*\s+[^ ]*
+^Downloading\s+from\s+AsposeJavaAPI:\s+[^ ]*
+^\+\s+cat\s+[^ ]*
+^[^ ]*\s+transferring\s+[^ ]*\s+[^ ]*\s+done
+^Receiving\s+objects:\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+MiB\s+\|\s+[^ ]*\s+MiB/s
+^\{model\-ihuman\-ai\-tts\-bertvits2\-writing\-gpu\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+map\[repository_id:model\-ihuman\-ai\-tts\-bertvits2\-writing\-gpu\s+state:init\s+[^ ]*\s+[^ ]*\s+\[key:"state"\s+key_display:"制品状态"\s+value:"init"\s+value_display:"初始化"\]\s+false\s+[^ ]*\s+0\s+[^ ]*\s+[^ ]*
+^\#12\s+[^ ]*\s+\[\s+[^ ]*\s+Building\s+CXX\s+object\s+[^ ]*
+^分发地址:\s+[^ ]*
+^\{model\-ihuman\-ai\-asr\-modelscope\s+v1\.0\.0\-2025\-0512\s+[^ ]*\s+[^ ]*\s+2025\-05\-12\s+16:36:41\s+[^ ]*\s+[^ ]*\s+map\[repository_id:model\-ihuman\-ai\-asr\-modelscope\s+state:init\s+version:v1\.0\.0\-2025\-0512\]\s+[^ ]*\s+\[key:"state"\s+key_display:"制品状态"\s+value:"init"\s+value_display:"初始化"\]\s+false\s+1747039001244000000\s+0\s+v1\.0\.0\-2024\-0223\s+[^ ]*
+^\{model\-ihuman\-ai\-asr\-modelscope\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+map\[repository_id:model\-ihuman\-ai\-asr\-modelscope\s+state:init\s+[^ ]*\s+[^ ]*\s+\[key:"state"\s+key_display:"制品状态"\s+value:"init"\s+value_display:"初始化"\]\s+false\s+[^ ]*\s+0\s+v1\.0\.0\-2024\-0223\s+[^ ]*
+^\#13\s+[^ ]*\s+Downloading\s+[^ ]*\s+[^ ]*\s+kB\)
+^Your\s+branch\s+is\s+ahead\s+of\s+'origin/dev'\s+by\s+[^ ]*\s+commits\.
+^COPY\s+[^ ]*\s+/opt/
+^CDN:\s+trunk\s+Relative\s+path\s+not\s+modified:\s+[^ ]*
+^\|\s+\~\s+[^ ]*
+^putting\s+file\s+[^ ]*\s+as\s+[^ ]*\s+[^ ]*\s+kb/s\)\s+\(average\s+[^ ]*\s+kb/s\)
+^[^ ]*\s+[^ ]*\s+Apache\s+Flink\s+service\s+default\s+RUNNING\s+UNDEFINED\s+100%!\s+\(MISSING\)\s+[^ ]*
+^RUN\s+mkdir\s+\-p\s+[^ ]*\s+\&\&\s+mkdir\s+\-p\s+/opt/conf
+^ENV\s+K8S_SERVICE_NAME\s+[^ ]*
+^/usr/local/service/flink\-1\.17\.2/bin/flink\s+stop\s+\-yid\s+[^ ]*\s+\-p\s+[^ ]*\s+[^ ]*
+^asset\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+\[emitted\]
+^Resolving\s+deltas:\s+[^ ]*\s+[^ ]*
+^Updating\s+[^ ]*
+^Progress\s+\(4\):\s+[^ ]*\s+kB\s+\|\s+[^ ]*\s+[^ ]*\s+\|\s+[^ ]*\s+kB\s+\|\s+[^ ]*\s+[^ ]*
+^\->\s+Installing\s+[^ ]*\s+[^ ]*
+^Downloaded\s+from\s+aliyun\-plugin:\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+at\s+[^ ]*\s+[^ ]*
+^\+\+\s+echo\s+[^ ]*
+^Entrypoint\s+[^ ]*\s+\[big\]\s+[^ ]*\s+KiB\s+[^ ]*\s+[^ ]*\s+=\s+[^ ]*\s+[^ ]*\s+KiB\s+[^ ]*\s+[^ ]*\s+KiB\s+2\s+auxiliary\s+assets
+^\#\s+[^ ]*
+^input:\s+[^ ]*
+^\{routine\-data\-analysis\s+[^ ]*\s+routine\-data\-analysis\.tar\.gz\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+map\[repository_id:routine\-data\-analysis\s+state:init\s+[^ ]*\s+[^ ]*\s+代码地址:https://gitlab\.dev\.ihuman\.com/ihuman\-bigdata\-data\-analysis/routine\-data\-analysis\.git\s+品牌:\s+[^ ]*\s+站点:\]\s+[^ ]*\s+\[key:"state"\s+key_display:"制品状态"\s+value:"init"\s+value_display:"初始化"\]\s+false\s+[^ ]*\s+0\s+/routine\-data\-analysis\.tar\.gz\}
+^Element\s+[^ ]*\s+at\s+[^ ]*\s+[^ ]*\s+duplicated\s+with\s+element\s+declared\s+at\s+[^ ]*\s+[^ ]*
+^Built\s+at:\s+[^ ]*\s+[^ ]*\s+AM
+^\-rwxrwxr\-x\s+1\s+service\s+service\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*
+^\-keep\s+class\s+[^ ]*
+^[^ ]*\s+\|\s+glBindBuffer\(GL_ARRAY_BUFFER,\s+[^ ]*
+^[^ ]*\s+MB/s\s+eta\s+0:00:01
+^BUILD\s+SUCCESSFUL\s+in\s+[^ ]*\s+[^ ]*
+^[^ ]*\s+Layer\s+already\s+exists
+^[^ ]*\s+Already\s+exists
+^\+\s+git\s+clone\s+[^ ]*\s+[^ ]*\s+\-b\s+[^ ]*\s+[^ ]*
+^DONE\s+Compiled\s+successfully\s+in\s+[^ ]*\s+AM
+^index\s+[^ ]*\s+KiB\)
+^\#12\s+[^ ]*\s+Using\s+cached\s+[^ ]*\s+[^ ]*\s+[^ ]*
+^[^ ]*\s+[^ ]*\s+\-\-\s+Define\s+[^ ]*\s+=\s+[^ ]*
+^Missing\s+class\s+[^ ]*\s+\(referenced\s+from:\s+[^ ]*\s+[^ ]*\s+and\s+[^ ]*\s+other\s+[^ ]*
+^[^ ]*\s+digest:\s+[^ ]*\s+size:\s+[^ ]*
+^[^ ]*\s+\|\s+[^ ]*\s+\+
+^\{h5\-buildstatic\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+publish\-env:test\s+repository_id:h5\-buildstatic\s+state:pub\s+[^ ]*\s+[^ ]*\s+\[key:"state"\s+key_display:"制品状态"\s+value:"pub"\s+value_display:"发布"\s+key:"publish\-env"\s+key_display:"发布环境"\s+value:"test"\s+value_display:"发布到test"\s+key:"pub_type"\s+key_display:"发布类型"\s+[^ ]*\s+[^ ]*\s+false\s+[^ ]*\s+0\s+[^ ]*
+^\#14\s+[^ ]*
+^rename\s+[^ ]*\s+=>\s+[^ ]*\s+\(100%\)
+^creating:\s+[^ ]*
+^[^ ]*\s+refs/heads/master
+^Completed\s+[^ ]*\s+MiB/1\.4\s+MiB\s+[^ ]*\s+MiB/s\)\s+with\s+[^ ]*\s+file\(s\)\s+remaining
+^0\s+0\s+[^ ]*
+^>\s+[^ ]*\s+build\s+[^ ]*
+^\-keep\s+class\s+[^ ]*\s+[^ ]*
+^Downloading\s+[^ ]*\s+[^ ]*\s+MB\)
+^Collecting\s+[^ ]*
+^\+\s+tar\s+\-zcf\s+[^ ]*\s+dist/dev\s+[^ ]*\s+dist/prod\s+dist/test
+^\#\#\[info\]retCode:\s+200\s+response\s+message:\s+[^ ]*
+^32,768\s+[^ ]*\s+[^ ]*\s+0:00:00
+^asset\s+[^ ]*\s+[^ ]*\s+KiB\s+\[emitted\]\s+\[compared\s+for\s+emit\]
+^\+\s+curl\s+[^ ]*
+^\#\#\[info\]request\s+json\s+is\s+[^ ]*
+^\+\s+find\s+\./\s+\-name\s+[^ ]*
+^/home/jenkins/agent/micro\-assembly/src/packages/index\.ts\s+→\s+[^ ]*
+^\*\s+css\s+[^ ]*
+^[^ ]*\s+5:\s+[^ ]*\s+\[\[:\s+not\s+found
+^0K\s+\.\.\.\.\.\.\.\.\.\.\s+\.\.\.\.\.\.\.\.\.\.\s+\.\.\.\.\.\.\.\.\.\.\s+\.\.\.\.\.\.\.\.\.\.\s+\.\.\.\.\.\.\.\.\.\.\s+0%\s+[^ ]*\s+0s
+^\{data\-platform\-order\-center\s+[^ ]*\s+data\-platform\-order\-center\.tar\.gz\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+map\[repository_id:data\-platform\-order\-center\s+state:init\s+[^ ]*\s+[^ ]*\s+代码地址:https://gitlab\.dev\.ihuman\.com/ihuman\-bigdata\-data\-platform/data\-platform\-order\-center\.git\s+品牌:\s+构建人:zhangfaguang\s+站点:\]\s+[^ ]*\s+\[key:"state"\s+key_display:"制品状态"\s+value:"init"\s+value_display:"初始化"\]\s+false\s+[^ ]*\s+0\s+/data\-platform\-order\-center\.tar\.gz\}
+^[^ ]*\s+[^ ]*\s+[^ ]*\s+MB/s\)\s+\-\s+'libWeWorkFinanceSdk_Java\.so'\s+saved\s+\[7377872/7377872\]
+^at\s+[^ ]*
+^\{h5\-buildstatic\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+map\[branch_or_tag:feat/1\.2\.0\s+[^ ]*\s+git_addr:essay\-writing\s+[^ ]*\s+publish\-env:test\s+repository_id:h5\-buildstatic\s+state:pub\s+[^ ]*\s+[^ ]*\s+\[key:"state"\s+key_display:"制品状态"\s+value:"pub"\s+value_display:"发布"\s+key:"publish\-env"\s+key_display:"发布环境"\s+value:"test"\s+value_display:"发布到test"\s+key:"pub_type"\s+key_display:"发布类型"\s+[^ ]*\s+[^ ]*\s+false\s+[^ ]*\s+0\s+[^ ]*
+^\$\s+/usr/bin/git\s+clone\s+https://gitlab\.dev\.ihuman\.com/mobile/oxford/Oxford\-ABC/module\-business\.git\s+[^ ]*\s+\-\-template=
+^\-\s+Generating\s+[^ ]*\s+[^ ]*\s+at\s+`Pods/Target\s+Support\s+[^ ]*
+^In\s+module\s+[^ ]*\s+imported\s+from\s+[^ ]*
+^[^ ]*\s+packages\s+are\s+looking\s+for\s+funding
+^[^ ]*\s+[^ ]*\s+[^ ]*\s+\|\s+Json::FastWriter\s+jsonWriter;
+^[^ ]*\s+[^ ]*\s+0\s+0\s+[^ ]*\s+[^ ]*\s+0\s+[^ ]*\s+\-\-:\-\-:\-\-\s+\-\-:\-\-:\-\-\s+\-\-:\-\-:\-\-\s+[^ ]*
+^Created\s+wheel\s+for\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*
+^[^ ]*\s+\|\s+///\s+@par
+^drwxr\-xr\-x\s+[^ ]*\s+service\s+service\s+41\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*
+^asset\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+\[emitted\]\s+\[from:\s+[^ ]*
+^[^ ]*\s+[^ ]*\s+Collecting\s+[^ ]*\s+\(from\s+[^ ]*\s+/tmp/requirements\.txt\s+\(line\s+[^ ]*
+^Progress\s+\(5\):\s+0\.1/1\.1\s+MB\s+\|\s+[^ ]*\s+[^ ]*\s+\|\s+[^ ]*\s+kB\s+\|\s+[^ ]*\s+[^ ]*\s+\|\s+[^ ]*\s+[^ ]*
+^[^ ]*\s+actionable\s+tasks:\s+[^ ]*\s+executed,\s+[^ ]*\s+from\s+cache,\s+[^ ]*\s+up\-to\-date
+^100\s+214\s+0\s+214\s+0\s+0\s+[^ ]*\s+0\s+\-\-:\-\-:\-\-\s+[^ ]*\s+\-\-:\-\-:\-\-\s+[^ ]*
+^assets\s+by\s+chunk\s+[^ ]*\s+[^ ]*\s+\(id\s+hint:\s+vendors\)\s+[^ ]*\s+assets
+^\-rwxr\-xr\-x\s+1\s+service\s+service\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*
+^\#14\s+[^ ]*\s+\)
+^281M\s+[^ ]*
+^tar:\s+[^ ]*\s+time\s+stamp\s+2025\-06\-11\s+15:45:53\s+is\s+[^ ]*\s+s\s+in\s+the\s+future
+^[^ ]*\s+\|\s+\*\s+\\param\s+[^ ]*\s+[^ ]*\s+[^ ]*
+^\-rw\-\-\-\-\-\-\-\s+1\s+service\s+service\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*
+^CDN:\s+trunk\s+Relative\s+path:\s+[^ ]*\s+modified\s+during\s+this\s+run!\s+Returning\s+local
+^\{model\-ihuman\-ai\-asr\-modelscope\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+repository_id:model\-ihuman\-ai\-asr\-modelscope\s+state:init\s+[^ ]*\s+[^ ]*\s+\[key:"state"\s+key_display:"制品状态"\s+value:"init"\s+value_display:"初始化"\]\s+false\s+[^ ]*\s+0\s+[^ ]*\s+[^ ]*
+^[^ ]*\s+note:\s+expanded\s+from\s+macro\s+[^ ]*
+^[^ ]*\s+\|\s+[^ ]*\s+[^ ]*\s+\{
+^>\s+[^ ]*\s+[^ ]*\s+/home/jenkins/agent/h5\-ahaworld\-buildstatic
+^\-\s+Generating\s+Info\.plist\s+file\s+at\s+`Pods/Target\s+Support\s+[^ ]*
+^[^ ]*\s+\|\s+int\s+[^ ]*\s+=\s+[^ ]*
+^checking\s+for\s+[^ ]*\s+[^ ]*
+^\-keep\s+class\s+[^ ]*\s+\{\s+[^ ]*\s+\}
+^[^ ]*\s+\|\s+int\s+[^ ]*\s+=\s+[^ ]*\s+[^ ]*
+^asset\s+[^ ]*\s+[^ ]*\s+[^ ]*\s+\[compared\s+for\s+emit\]\s+\[from:\s+[^ ]*
+^\+\s+[^ ]*\s+assets
+^BUILD\s+SUCCESSFUL\s+in\s+1m\s+[^ ]*
+^HEAD\s+is\s+now\s+at\s+[^ ]*\s+[^ ]*\s+[^ ]*
+^HEAD\s+is\s+now\s+at\s+[^ ]*\s+[^ ]*
+^Dload\s+[^ ]*
+^[^ ]*\s+files\s+changed,\s+[^ ]*\s+insertions\(\+\),\s+[^ ]*\s+[^ ]*
+^[^ ]*\s+\|\s+0\s+\|\s+[^ ]*\s+\|\s+[^ ]*\s+\|\s+0\s+\|\s+[^ ]*
+^Preparing\s+to\s+unpack\s+[^ ]*\s+\.\.\.
+^changed:\s+[^ ]*\s+=>\s+\(item=\{u'dest':\s+[^ ]*\s+u'src':\s+[^ ]*
+^\|\s+[^ ]*\s+\^\s+\~\~\~\~\~\~\~\~\~\~\~\~\~
+^[^ ]*\s+\|\s+glBindBuffer\(GL_ELEMENT_ARRAY_BUFFER,\s+[^ ]*
+^[^ ]*\s+0\s+\-\-:\-\-:\-\-\s+[^ ]*
+^Progress\s+\(4\):\s+0\.1/1\.0\s+MB\s+\|\s+[^ ]*\s+[^ ]*\s+\|\s+[^ ]*\s+kB\s+\|\s+[^ ]*\s+kB
+^39\s+0\s+0\s+[^ ]*
