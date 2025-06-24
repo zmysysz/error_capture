@@ -36,7 +36,8 @@ add_executable(${APP_NAME} main.cpp
 #add link librarie files
 target_include_directories(${APP_NAME} PRIVATE ${CMAKE_SOURCE_DIR})
 target_link_libraries(${APP_NAME}
-        libboost_coroutine.so 
-        libboost_context.so 
-        libboost_url.so
-        libz.so)
+	#libboost_coroutine.so 
+	#libboost_context.so 
+	#libboost_url.so
+	#libz.so)
+	)

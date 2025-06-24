@@ -17,8 +17,8 @@ int main(int argc, char* argv[]) {
         std::cerr << "Usage: ./error_capture cmd <filename>\n";
         return 1;
     }
-    else if(type == "server" && argc < 2) {
-        std::cerr << "Usage: ./error_capture server\n";
+    else if(type == "server" && argc < 3) {
+        std::cerr << "Usage: ./error_capture server config-path\n";
         return 1;
     }
     //load the capture parameters
@@ -37,8 +37,9 @@ int main(int argc, char* argv[]) {
         }
     }
     else if (type == "server") {
+        std::string configpath(argv[2]);
         // Load the configuration
-        auto cfg = config::get("config.toml");
+        auto cfg = config::get(configpath);
         auto host = (*cfg)["server"]["host"].value_or("127.0.0.1");
         auto port = (*cfg)["server"]["port"].value_or(6565);
         auto thread_num = (*cfg)["server"]["thread"].value_or(4);
