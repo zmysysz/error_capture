@@ -22,18 +22,7 @@ A C++ project for log capture and analysis, designed to capture and filter error
    - Resource errors (memory leak, too many)
    - Permission errors (not authorized, not permitted)
 ## Regular Expression Patterns
-Many of the regex patterns used in this project are derived from Drain3 log parsing template training, including:
-
-1. Time Patterns
-   
-   - ISO format: \[?\d{4}-\d{2}-\d{2}[ T]\d{2}:\d{2}:\d{2}(\.\d+)?((Z|z|[+-])\d{2}:?\d{2})?\]?
-   - Apache format: \[?\d{2}/\w{3}/\d{4}:\d{2}:\d{2}:\d{2} [+-]\d{4}\]?
-   - Common format: \[?\d{4}/\d{2}/\d{2} \d{2}:\d{2}:\d{2}(\.\d+)?\]?
-2. Stack Trace Patterns
-   
-   - Multiple language-specific patterns trained from real log data
-   - Common stack trace headers and formats
-   - Line number and file reference patterns
+Many of the regex patterns used in this project are derived from Drain3 log parsing template training (The logs are derived from the historical records of application builds and artifact deployments.), Patterns are applied with exclusions from expression_exclude.txt
 ## API Documentation
 ### Log Capture API
 ```
