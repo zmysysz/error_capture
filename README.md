@@ -26,8 +26,8 @@ Many of the regex patterns used in this project are derived from Drain3 log pars
 ## API Documentation
 ### Log Capture API
 ```
-POST /capture?warn_cap=false&
-failed_log=false&format=raw
+POST /log/capture?warn_cap=false&
+failed_log=false&format=raw&timestamp=1750735311000
 Content-Type: text/plain
 
 Request Parameters (Query String):
