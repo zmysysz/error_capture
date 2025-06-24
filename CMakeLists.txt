@@ -23,10 +23,6 @@ find_path(TOMLPP_FOUND "toml++/toml.h")
 if(NOT TOMLPP_FOUND)
     message(FATAL_ERROR "toml++/toml.h not found in default include paths!")
 endif()
-find_path(TOMLPP_FOUND "bst-http/bst-http.h")
-if(NOT TOMLPP_FOUND)
-    message(FATAL_ERROR "bst-http/bst-http.h not found in default include paths!")
-endif()
 
 # set output directories
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR})
@@ -40,7 +36,6 @@ add_executable(${APP_NAME} main.cpp
 #add link librarie files
 target_include_directories(${APP_NAME} PRIVATE ${CMAKE_SOURCE_DIR})
 target_link_libraries(${APP_NAME}
-        libboost_regex.so
         libboost_coroutine.so 
         libboost_context.so 
         libboost_url.so
