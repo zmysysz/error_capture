@@ -44,10 +44,12 @@ capture::capture()
         //for java/js/c#
         boost::regex(R"(\s*at\s[^\n]*(\.java|\.cs|\.js|\.mjs|\.ts|\.jsx|\.tsx|more$)(:\d+)?(:\d+)?(\)|$))"),
         //GDB & c++ 
-        boost::regex(R"((\s+#\d+\s[^\n]+in\s))"),
+        boost::regex(R"(\s+#\d+\s[^\n]+in\s)"),
         boost::regex(R"((In file included)?\s*from\s[^\n]*(\.(h|hpp|hxx|h++|hh)|/c\+\+/\d+/))"),
         // Go
-        boost::regex(R"((goroutine\s+\d+\s+\[.*?\]:|main\.main\(.*\)))"),
+        boost::regex(R"(goroutine\s+\d+\s+\[.*?\]\:|main\.main\(.*\))"),
+        boost::regex(R"(.*\(0x[0-9a-f]+(, 0x[0-9aa-f]+)*\))"),
+        boost::regex(R"(\s+/[^.]+\.go:[0-9]+\s\+0x[0-9a-f]+)"),
         // Python
         boost::regex(R"(\s*File\s+"[^"]+\.py",\s+line\s+\d+,)"),
 
@@ -417,6 +419,7 @@ bool capture::capture_from_file(const std::string &filepath, capture_context &cc
     int line_number = 1;
     range_match_pattern rangemp;
     while (std::getline(in, oline)) {
+        if (oline.empty()) continue; // skip empty lines
         line = remove_ansi(oline,cctx); // remove ansi escape codes
         remove_inplace(line,cctx); // remove binary characters
         std::string_view view =  remove_time_prefix(line,cctx); // remove time prefix if exists
@@ -459,7 +462,8 @@ bool capture::capture_from_str(const std::string &lines, capture_context &cctx) 
     match_type::type captured = match_type::MATCH_NONE;
     int line_number = 1;
     range_match_pattern rangemp;
-    while (getline(lines, oline, pos)) {
+    while (getline(lines, oline, pos) >= 0) {
+        if (oline.empty()) continue; // skip empty lines
         line = remove_ansi(oline,cctx); // remove ansi escape codes
         remove_inplace(line,cctx); // remove binary characters
         std::string_view view = remove_time_prefix(line,cctx); // remove time prefix if exists
@@ -528,7 +532,7 @@ void capture::remove_inplace(std::string& line,capture_context &cctx) {
 }
 
 int capture::getline(const std::string &lines, std::string &line, size_t &pos) {
-    if (pos >= lines.size()) return 0;
+    if (pos >= lines.size()) return -1;
 
     // Find the next line break character: \r or \n
     size_t line_end = lines.find('\n', pos);
