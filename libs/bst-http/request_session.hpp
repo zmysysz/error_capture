@@ -109,7 +109,7 @@ namespace bst {
                     se.code() != beast::errc::connection_reset &&
                     se.code() != beast::errc::operation_canceled) 
                 {
-                    fail(se.code(), "session");
+                    fail(se, "session");
                 }
             }
             catch (const std::exception& e) {

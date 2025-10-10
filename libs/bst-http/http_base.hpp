@@ -13,7 +13,11 @@ using tcp = net::ip::tcp;
 
 namespace bst
 {
-    static void fail(const beast::error_code &ec, char const* what)
+    static void fail(const beast::system_error& se, char const* what)
+    {
+        std::cerr << what << ": " << se.code().message() << " --> " << se.what() << std::endl;
+    }
+    static void fail(const beast::error_code& ec, char const* what)
     {
         std::cerr << what << ": " << ec.message() << std::endl;
     }
