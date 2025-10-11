@@ -123,8 +123,10 @@ namespace bst {
                 catch (const beast::system_error& se) {
                     if (se.code() != http::error::end_of_stream &&
                         se.code() != beast::errc::connection_reset &&
-                        se.code() != beast::errc::operation_canceled && 
-                        se.code() != beast::errc::timed_out)
+                        se.code() != beast::errc::operation_canceled &&
+                        se.code() != beast::errc::timed_out && 
+                        se.code() != beast::errc::network_down &&
+                        se.code() != beast::errc::stream_timeout)
                     {
                         fail(se, "session system_error");
                         be_error = true;
