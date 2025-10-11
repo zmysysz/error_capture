@@ -123,20 +123,23 @@ namespace bst {
                 catch (const beast::system_error& se) {
                     if (se.code() != http::error::end_of_stream &&
                         se.code() != beast::errc::connection_reset &&
-                        se.code() != beast::errc::operation_canceled) 
+                        se.code() != beast::errc::operation_canceled && 
+                        se.code() != beast::errc::timed_out)
                     {
                         fail(se, "session system_error");
                         be_error = true;
-                        break;
                     }
                 }
                 catch (const std::exception& e) {
                     fail(e, "session exception");
                     be_error = true;
+                }
+                if(be_error) {
+                    // If an error occurred, send a 500 response and break the loop
+                    co_await send_500(stream);
                     break;
                 }
             }
-
             // Ensure connection is properly closed
             response_sender::close(stream);
         }
